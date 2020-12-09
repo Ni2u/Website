@@ -1,4 +1,2 @@
 # Website
-Html Website Learnings
-
-Ni2uwebsite.github.io
+[Go to my final project](https://ni2u.github.io/Website/FinalProject.html)
